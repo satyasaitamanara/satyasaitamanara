@@ -19,7 +19,7 @@ I am an MCA student specializing in Full Stack Development and Artificial Intell
 [![](https://visitcount.itsvg.in/api?id=satyasaitamanara&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=satyasaitamanara&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/satyasaitamanara/AgriAdvisor/api?username=satyasaitamanara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satyasaitamanara&icon=2&color=0)](https://visitcount.itsvg.in)
