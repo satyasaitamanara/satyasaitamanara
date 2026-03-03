@@ -12,16 +12,19 @@ I am an MCA student specializing in Full Stack Development and Artificial Intell
 ![](https://nirzak-streak-stats.vercel.app/?user=satyasaitamanara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasaitamanara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github.com/satyasaitamanara/AgriAdvisor)
+## 🔝 Top Project
+
+### AgriAdvisor – AI-Based Smart Crop Recommendation System
+
+🔗 Repository: [AgriAdvisor](https://github.com/satyasaitamanara/AgriAdvisor)
+
+- ML-based crop recommendation using soil and environmental parameters
+- Feature engineering and model evaluation pipeline
+- Explainable prediction system
+- Web integration using Flask
 
 ---
-[![](https://visitcount.itsvg.in/api?id=satyasaitamanara&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-![](https://github.com/satyasaitamanara/AgriAdvisor/api?username=satyasaitamanara&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=satyasaitamanara&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
