@@ -1,4 +1,4 @@
-#🎯 About Me:
+# 💫🎯 About Me:
 I am an MCA student specializing in Full Stack Development and Artificial Intelligence.  <br>I build scalable web applications using Python (Flask), MySQL, and modern frontend technologies.  
 
 
